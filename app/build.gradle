@@ -28,6 +28,6 @@ dependencies {
     implementation files('libs/common-lang3.jar')
     implementation files('libs/OnBarcode.AndroidBarcode.jar')
     implementation files('libs/org-apache-commons-codec.jar')
-    implementation files('libs/Qualcomm3TPrinter_Bio_API_1.3.jar')
     implementation 'com.google.android.gms:play-services-location:15.0.1'
+    implementation 'com.github.amlcurran.showcaseview:library:5.4.3'
 }
